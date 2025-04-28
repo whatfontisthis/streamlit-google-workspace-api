@@ -2,6 +2,16 @@
 
 Google Sheets 데이터를 사용하여 프로젝트 간트 차트를 실시간으로 시각화하는 Streamlit 애플리케이션입니다.
 
+## 스크린샷
+
+### 스트림릿 페이지
+
+![스트림릿 화면](images/screenshot2.png)
+
+### 시트 데이터
+
+![시트 데이터](images/screenshot1.png)
+
 ## 주요 기능
 
 - 🔄 **실시간 연동**: Google Sheets 데이터를 자동으로 새로고침

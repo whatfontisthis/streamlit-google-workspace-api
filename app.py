@@ -67,6 +67,7 @@ def get_gspread_client():
 st.sidebar.header("설정")
 sheet_url = st.sidebar.text_input(
     "Google 스프레드시트 URL 또는 ID",
+    value="1e8uYO6shZOMjIlvic29I2KrmLEQnn-TogWHnI7_oi5E",  # 기본값 설정
     help="예: https://docs.google.com/spreadsheets/d/1abc123def456...",
 )
 
